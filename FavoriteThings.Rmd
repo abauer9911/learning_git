@@ -1,14 +1,14 @@
 ---
 title: "A few of my favorite things"
-author: "Alexandra Hurtado Desaulniers"
+author: "Ally Bauer"
 output: html_notebook
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+ - Crocheting and Knitting
+ - Cats and Dogs 
+ - Rollerskating
+ - Videogames (like Hollow Knight, Stardew Valley, and the Sims)
  
- 🎮 - by student choice
+ 🐈
